@@ -1,6 +1,7 @@
 # Create My Portfolio Site
 
 Fork this project to easily create a portfolio site using [Create React App](https://github.com/facebook/create-react-app) and [Material UI](https://material-ui.com/). The goal of this project is to quickly build a portfolio site.
+*This is Tor Kingdon's fork https://github.com/kingtor69/create-my-portfolio-site.git from the original by Brian Tran (see below for link)*
 
 ## Usage
 

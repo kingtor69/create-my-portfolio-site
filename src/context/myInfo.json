@@ -25,10 +25,10 @@
         ]
     },
     "main": {
-        "greeting": "King Tor Codes",
-        "blurb":"My name is Tor Kingdon and I tell stories with code. I've been in the entertainment business since I was a kid (specifically sound for TV & film) and have decided to use my computer skills to write code instead of making funny noises.",
+        "greeting": "King Tor Codes: my name is Tor Kingdon and I tell stories with code.",
+        "blurb":"I've been working in the entertainment business since I was a kid (specifically sound for TV & film) and have decided to use my computer skills to write code instead of making funny noises.",
         "profileImage": { 
-            "url":"/images/TorHeadshotWithCello400x400",
+            "url":"./images/TorHeadshotWithCello400x400.jpeg",
             "altText":"Tor in front of Carnegie Hall"
         },
         "image": {
@@ -41,12 +41,12 @@
         "projects":[
             {
                 "projectName": "Saddle-Time",
-                "description":"Bicycle-friendly bicycle directions. This project was born from my frustration in being routed through horrible cycling intersections by mapping services that are intended for cars (even when they do have a bicycle setting). The app hasn't fulfilled it's potential yet, but it was an excellent exercise in working with the full stack and with juggling multiple API calls. It was programmed with Python, HTML, CSS, and JavaScript. I also used the frameworks/libraries Flask, WTForms, Jinja2, Bootstrap, jQuery and plugins from Mapbox & Select2.",
+                "description":"Bicycle-friendly bicycle directions. It was programmed with Python, HTML, CSS, and JavaScript. I also used the frameworks/libraries Flask, WTForms, Jinja2, Bootstrap, jQuery and plugins from Mapbox & Select2. It uses APIs from Mapbox, Mapquest, and Open Weather Service",
                 "githubUrl":"https://github.com/kingtor69/saddle-time",
                 "projectUrl":"https://saddle-time.herokuapp.com/",
                 "image": {
-                    "url": "/images/SaddleTimeScreenshot.png",
-                    "altText": "saddle-time thumbnail"
+                    "url": "./images/SaddleTimeScreenshot.png?raw=true",
+                    "altText": "Saddle-Time screenshot"
                 }
             },
             {

@@ -1,6 +1,6 @@
 {
     "navigation": {
-        "name": "John Doe",
+        "name": "Tor Kingdon",
         "menu": [
             {
                 "text": "Home",
@@ -14,25 +14,25 @@
             },
             {
                 "text": "Github",
-                "url": "https://github.com/",
+                "url": "https://github.com/kingtor69",
                 "target":"_blank"
             },
             {
                 "text": "LinkedIn",
-                "url": "https://www.linkedin.com//",
+                "url": "https://www.linkedin.com/in/kingtor",
                 "target":"_blank"
             }
         ]
     },
     "main": {
-        "greeting": "Hi, I'm John, a Software Developer from California",
-        "blurb":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.",
+        "greeting": "King Tor Codes",
+        "blurb":"My name is Tor Kingdon and I tell stories with code. I've been in the entertainment business since I was a kid (specifically sound for TV & film) and have decided to use my computer skills to write code instead of making funny noises.",
         "profileImage": { 
-            "url":"",
-            "altText":"profile image"
+            "url":"/images/TorHeadshotWithCello400x400",
+            "altText":"Tor in front of Carnegie Hall"
         },
         "image": {
-            "url": "/",
+            "url": "",
             "altText": "temp"
         }
     },
@@ -40,13 +40,13 @@
         "categoryName":"Selected Work",
         "projects":[
             {
-                "projectName": "project0",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.",
-                "githubUrl":"https://github.com/",
-                "projectUrl":"https://vercel.com/",
+                "projectName": "Saddle-Time",
+                "description":"Bicycle-friendly bicycle directions. This project was born from my frustration in being routed through horrible cycling intersections by mapping services that are intended for cars (even when they do have a bicycle setting). The app hasn't fulfilled it's potential yet, but it was an excellent exercise in working with the full stack and with juggling multiple API calls. It was programmed with Python, HTML, CSS, and JavaScript. I also used the frameworks/libraries Flask, WTForms, Jinja2, Bootstrap, jQuery and plugins from Mapbox & Select2.",
+                "githubUrl":"https://github.com/kingtor69/saddle-time",
+                "projectUrl":"https://saddle-time.herokuapp.com/",
                 "image": {
-                    "url": "https://github.githubassets.com/images/modules/site/home/repo-browser.png",
-                    "altText": "project0 thumbnail"
+                    "url": "/images/SaddleTimeScreenshot.png",
+                    "altText": "saddle-time thumbnail"
                 }
             },
             {
@@ -83,11 +83,11 @@
             "items":[
                 {
                     "type":"Languages",
-                    "items":["JavaScript", "HTML", "CSS","Python","SQL"]
+                    "items":["JavaScript", "HTML", "CSS","Python", "SQL"]
                 },
                 {
                     "type":"Libraries and Frameworks",
-                    "items":["React", "Redux", "Express","Flask"]
+                    "items":["React", "Express", "Flask"]
                 },
                 {
                     "type":"Other",

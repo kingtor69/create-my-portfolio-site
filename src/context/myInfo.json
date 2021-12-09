@@ -1,6 +1,6 @@
 {
     "navigation": {
-        "name": "Tor Kingdon",
+        "name": "King Tor Codes",
         "menu": [
             {
                 "text": "Home",
@@ -25,10 +25,10 @@
         ]
     },
     "main": {
-        "greeting": "King Tor Codes: my name is Tor Kingdon and I tell stories with code.",
+        "greeting": "My name is Tor Kingdon and I tell stories with code.",
         "blurb":"I've been working in the entertainment business since I was a kid (specifically sound for TV & film) and have decided to use my computer skills to write code instead of making funny noises.",
         "profileImage": { 
-            "url":"./images/TorHeadshotWithCello400x400.jpeg",
+            "url":"https://github.com/kingtor69/create-my-portfolio-site/blob/master/assets/TorHeadshotWithCello400x400.jpeg?raw=true",
             "altText":"Tor in front of Carnegie Hall"
         },
         "image": {
@@ -45,7 +45,7 @@
                 "githubUrl":"https://github.com/kingtor69/saddle-time",
                 "projectUrl":"https://saddle-time.herokuapp.com/",
                 "image": {
-                    "url": "./images/SaddleTimeScreenshot.png?raw=true",
+                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/master/assets/SaddleTimeScreenshot.png?raw=true",
                     "altText": "Saddle-Time screenshot"
                 }
             },

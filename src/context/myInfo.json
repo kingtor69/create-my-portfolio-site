@@ -50,22 +50,22 @@
                 }
             },
             {
-                "projectName": "project1",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.",
-                "githubUrl":"https://github.com/",
-                "projectUrl":"https://vercel.com/",
+                "projectName": "Tor Boggle",
+                "description":"My down-n-dirty take on the classic dice/word game using Python/Flask",
+                "githubUrl":"https://github.com/kingtor69/flask-boggle",
+                "projectUrl":"http://tor-boggle.herokuapp.com/",
                 "image": {
-                    "url": "https://github.githubassets.com/images/modules/site/home/repo-browser.png",
-                    "altText": "project1 thumbnail"
+                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/master/assets/TorBoggle.png?raw=true",
+                    "altText": "Tor Boggle screenshot"
                 }
             },
             {
-                "projectName": "project2",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.",
-                "githubUrl":"https://github.com/",
-                "projectUrl":"https://vercel.com/",
+                "projectName": "Custom Minecraft Locations",
+                "description":"My son makes customized Minecraft locations designed as gifts for special occassions. I made this site for him to sell those locations.",
+                "githubUrl":"https://github.com/kingtor69/custom-mc-rooms",
+                "projectUrl":"http://mc.tree-sentience.com/",
                 "image": {
-                    "url": "https://github.githubassets.com/images/modules/site/home/repo-browser.png",
+                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/master/assets/MCRooms.png?raw=true",
                     "altText": "project2 thumbnail"
                 }
             }
@@ -77,7 +77,7 @@
     },
     "about": {
         "categoryName":"About",
-        "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.",
+        "statement": "I've been using computers since the Commodore PET, and programming since PASCAL was pretty hot stuff. I learned PASCAL first on my family's Apple ][+ with the RAM expansion to 64k! I had a concentration in Computer Science at Kalamazoo College where I learned a variety of database skills along with the basic structure applicable to all programming languages. Learning how to 'think like a computer' has served me very well in everything I've done, from temping in offices to mixing feature films.",
         "skills":{
             "categoryName":"Skills",
             "items":[
@@ -87,11 +87,11 @@
                 },
                 {
                     "type":"Libraries and Frameworks",
-                    "items":["React", "Express", "Flask"]
+                    "items":["React", "Express", "Flask", "Bootstrap", "WTForms", "Jinja2", "jQuery"]
                 },
                 {
-                    "type":"Other",
-                    "items":["other0", "other1"]
+                    "type":"Fun",
+                    "items":["hockey center", "black diamond skier", "cyclist (roadie)", "pretty good bridge partner"]
                 }
             ]
         },
@@ -99,16 +99,16 @@
             "categoryName":"Work Experience",
             "work": [
                 {
-                    "company":"company0",
-                    "position":"position0",
-                    "date":"Date 2020 - Date 2021",
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque."
+                    "company":"Springboard",
+                    "position":"Software Engineering Student/Fellow",
+                    "date":"October 2020 - January 2022",
+                    "description":"I have rediscovered a love for computers that has been with me since my first experience at a computer drop-in. I'm working primarily in web app development (full stack) but am also looking to merge my audio post-production experience with coding."
                 },
                 {
-                    "company":"company2",
-                    "position":"position1",
-                    "date":"Date 2019 - Date 2020",
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque."
+                    "company":"Hear Kitty Studios",
+                    "position":"Co-owner / Chief Sound Guy",
+                    "date":"October 2002 - present",
+                    "description":"Kathleen Edwards, M.P.S.E. and I founded Hear Kitty Studios to combine our talents and offer anyone interested in producing television, radio or podcast content the highest quality sound possible. We are passionate about post-production sound, crafting custom soundscapes to make every project we work on sound its best."
                 }
             ]
         },
@@ -116,24 +116,30 @@
             "categoryName":"Education",
             "items": [
                 {
-                    "name":"education0",
-                    "curriculum":"curriculum0",
-                    "date":"Date 2020 - Date 2021",
-                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque."
+                    "name":"Springboard",
+                    "curriculum":"Full Stack Programming",
+                    "date":"October 2020 - January 2022",
+                    "description":"The dream job that I'm working towards would merge my sound experience with my love for code."
+                },
+                {
+                    "name":"Kalamazoo College",
+                    "curriculum":"Bachelor of Arts",
+                    "date":"September 1987 - June 1991",
+                    "description":"Graduated with Honors in Theatre Arts & Communication with a concentration with Computer Science"
                 }
             ]
         },
         "certifications":{
             "categoryName":"Certifications",
-            "items":["certification0", "certification1"]
+            "items":[]
         }
     },
     "other":{
         "images":[
             {"image":{
-                "url":"https://github.githubassets.com/images/modules/site/home/repo-browser.png",
-                "altText":"",
-                "description":""
+                "url":"https://github.com/kingtor69/create-my-portfolio-site/blob/master/assets/soundAndCodeDesk.jpg?raw=true",
+                "altText":"sound guy who codes",
+                "description":"My desk with Pro Tools, VS Code, Terminal window, web browser, and sound design tools."
                 }
             }
         ]

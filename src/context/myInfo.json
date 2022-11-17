@@ -1,6 +1,6 @@
 {
     "navigation": {
-        "name": "King Tor Codes",
+        "name": "KingTorCodes",
         "menu": [
             {
                 "text": "Home",
@@ -28,7 +28,7 @@
         "greeting": "My name is Tor Kingdon and I tell stories with code.",
         "blurb":"I've been working in the entertainment business since I was a kid (specifically sound for TV & film) and have decided to use my computer skills to write code instead of making funny noises.",
         "profileImage": { 
-            "url":"https://github.com/kingtor69/create-my-portfolio-site/blob/master/assets/TorHeadshotWithCello400x400.jpeg?raw=true",
+            "url":"https://github.com/kingtor69/create-my-portfolio-site/blob/main/assets/TorHeadshotWithCello400x400.jpeg?raw=true",
             "altText":"Tor in front of Carnegie Hall"
         },
         "image": {
@@ -41,32 +41,32 @@
         "projects":[
             {
                 "projectName": "Saddle-Time",
-                "description":"Bicycle-friendly bicycle directions. It was programmed with Python, HTML, CSS, and JavaScript. I also used the frameworks/libraries Flask, WTForms, Jinja2, Bootstrap, jQuery and plugins from Mapbox & Select2. It uses APIs from Mapbox, Mapquest, and Open Weather Service",
+                "description":"Bicycle-friendly bicycle directions. It was programmed with Python, HTML, CSS, and JavaScript. I also used the frameworks/libraries Flask, WTForms, Jinja2, Bootstrap, jQuery and plugins from Mapbox & Select2. It uses APIs from Mapbox, Mapquest, and Open Weather Service.",
                 "githubUrl":"https://github.com/kingtor69/saddle-time",
                 "projectUrl":"https://saddle-time.herokuapp.com/",
                 "image": {
-                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/master/assets/SaddleTimeScreenshot.png?raw=true",
+                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/main/assets/SaddleTimeScreenshot.png?raw=true",
                     "altText": "Saddle-Time screenshot"
                 }
             },
             {
                 "projectName": "Tor Boggle",
-                "description":"My down-n-dirty take on the classic dice/word game using Python/Flask",
+                "description":"My down-n-dirty take on the classic dice/word game using Python/Flask.",
                 "githubUrl":"https://github.com/kingtor69/flask-boggle",
                 "projectUrl":"http://tor-boggle.herokuapp.com/",
                 "image": {
-                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/master/assets/TorBoggle.png?raw=true",
+                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/main/assets/TorBoggle.png?raw=true",
                     "altText": "Tor Boggle screenshot"
                 }
             },
             {
-                "projectName": "Custom Minecraft Locations",
-                "description":"My son makes customized Minecraft locations designed as gifts for special occassions. I made this site for him to sell those locations.",
-                "githubUrl":"https://github.com/kingtor69/custom-mc-rooms",
-                "projectUrl":"http://mc.tree-sentience.com/",
+                "projectName": "The Milonga Project",
+                "description":"I produced an “illustrated audio play” with my partner and a wrtier/director we’ve worked with before, and I made our website. The backend is still in development using Node JS and the Strapi library.",
+                "githubUrl":"https://github.com/kingtor69/themilongaproject.com",
+                "projectUrl":"https://themilongaproject.com/",
                 "image": {
-                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/master/assets/MCRooms.png?raw=true",
-                    "altText": "project2 thumbnail"
+                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/main/assets/themilongaprojectScreenShot.png?raw=true",
+                    "altText": "The Milonga Project screenshot"
                 }
             }
         ],
@@ -77,7 +77,7 @@
     },
     "about": {
         "categoryName":"About",
-        "statement": "I've been using computers since the Commodore PET, and programming since PASCAL was pretty hot stuff. I learned PASCAL first on my family's Apple ][+ with the RAM expansion to 64k! I had a concentration in Computer Science at Kalamazoo College where I learned a variety of database skills along with the basic structure applicable to all programming languages. Learning how to 'think like a computer' has served me very well in everything I've done, from temping in offices to mixing feature films.",
+        "statement": "I've been using computers since the Commodore PET, and programming since PASCAL was pretty hot stuff. I learned PASCAL first on my family's Apple ][+ with the RAM expansion to 64k! I graduated with a concentration in Computer Science from Kalamazoo College where I learned a variety of database skills along with the basic structure applicable to all programming languages. Learning how to 'think like a computer' has served me very well in everything I've done, from temping in offices to mixing feature films.",
         "skills":{
             "categoryName":"Skills",
             "items":[
@@ -137,7 +137,7 @@
     "other":{
         "images":[
             {"image":{
-                "url":"https://github.com/kingtor69/create-my-portfolio-site/blob/master/assets/soundAndCodeDesk.jpg?raw=true",
+                "url":"https://github.com/kingtor69/create-my-portfolio-site/blob/main/assets/soundAndCodeDesk.jpg?raw=true",
                 "altText":"sound guy who codes",
                 "description":"My desk with Pro Tools, VS Code, Terminal window, web browser, and sound design tools."
                 }

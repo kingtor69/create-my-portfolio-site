@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import MyInfoContext from '../context/MyInfoContext';
+import MyInfoContext from '~/Dropbox/kingtorcodesData/context/MyInfoContext';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';

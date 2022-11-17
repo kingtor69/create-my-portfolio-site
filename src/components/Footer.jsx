@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
-import MyInfoContext from '../context/MyInfoContext';
+import MyInfoContext from '~/Dropbox/kingtorcodesData/context/MyInfoContext';
 
 const useStyles = makeStyles((theme) => ({
 	footer : {

@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import MyInfoContext from '../context/MyInfoContext';
+import MyInfoContext from '~/Dropbox/kingtorcodesData/context/MyInfoContext';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
 import Container from '@material-ui/core/Container';

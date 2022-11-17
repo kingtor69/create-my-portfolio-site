@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
-import MyInfoContext from '../context/MyInfoContext';
+import MyInfoContext from '~/Dropbox/kingtorcodesData/context/MyInfoContext';
 import { makeStyles } from '@material-ui/core/styles';
 import MyNavButton from './MyNavButton';
 const useStyles = makeStyles(() => ({

@@ -139,12 +139,12 @@ const About = () => {
 						<Divider />
 					</Container>
 					{/* Certifications*/}
-					<div className={classes.category}>
+					{/* <div className={classes.category}>
 						<Typography variant='h4'>{certifications.categoryName}</Typography>
 						<div className={classes.categoryBody}>
 							<Typography>{certifications.items.join(', ')}</Typography>
 						</div>
-					</div>
+					</div> */}
 					{/* End Certifications*/}
 				</Paper>
 			</Container>

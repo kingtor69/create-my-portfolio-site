@@ -22,7 +22,7 @@ exports[`matches snapshot 1`] = `
           <h6
             class="MuiTypography-root makeStyles-aboutStatement-14 MuiTypography-subtitle1"
           >
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+            I've been using computers since the Commodore PET, and programming since PASCAL was pretty hot stuff. I learned PASCAL first on my family's Apple ][+ with the RAM expansion to 64k! I graduated with a concentration in Computer Science from Kalamazoo College where I learned a variety of database skills along with the basic structure applicable to all programming languages. Learning how to 'think like a computer' has served me very well in everything I've done, from temping in offices to mixing feature films.
           </h6>
         </div>
         <div
@@ -30,13 +30,15 @@ exports[`matches snapshot 1`] = `
         >
           <div
             class="MuiCardMedia-root makeStyles-media-12"
-            style="background-image: url(https://github.githubassets.com/images/modules/site/home/repo-browser.png);"
-            title=""
+            style="background-image: url(https://raw.githubusercontent.com/kingtor69/create-my-portfolio-site/main/src/assets/soundAndCodeDesk.jpg);"
+            title="sound guy who codes"
           />
         </div>
         <span
           class="MuiTypography-root makeStyles-mediaDescription-13 MuiTypography-caption MuiTypography-colorTextSecondary MuiTypography-alignCenter MuiTypography-displayBlock"
-        />
+        >
+          My desk with Pro Tools, VS Code, Terminal window, web browser, and sound design tools.
+        </span>
       </div>
       <div
         class="MuiContainer-root MuiContainer-maxWidthSm"
@@ -81,7 +83,7 @@ exports[`matches snapshot 1`] = `
             <p
               class="MuiTypography-root MuiTypography-body1"
             >
-              React, Redux, Express, Flask
+              React, Express, Flask, Bootstrap, WTForms, Jinja2, jQuery
             </p>
           </div>
           <div
@@ -90,12 +92,12 @@ exports[`matches snapshot 1`] = `
             <h6
               class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
             >
-              Other
+              Fun
             </h6>
             <p
               class="MuiTypography-root MuiTypography-body1"
             >
-              other0, other1
+              hockey center, black diamond skier, cyclist (roadie), pretty good bridge partner
             </p>
           </div>
         </div>
@@ -122,44 +124,44 @@ exports[`matches snapshot 1`] = `
             <h6
               class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
             >
-              company0
+              Springboard
             </h6>
             <p
               class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
             >
-              position0
+              Software Engineering Student/Fellow
             </p>
             <p
               class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
             >
-              Date 2020 - Date 2021
+              October 2020 - January 2022
             </p>
             <p
               class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+              I have rediscovered a love for computers that has been with me since my first experience at a computer drop-in. I'm working primarily in web app development (full stack) but am also looking to merge my audio post-production experience with coding.
             </p>
           </div>
           <div>
             <h6
               class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
             >
-              company2
+              Hear Kitty Studios
             </h6>
             <p
               class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
             >
-              position1
+              Co-owner / Chief Sound Guy
             </p>
             <p
               class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
             >
-              Date 2019 - Date 2020
+              October 2002 - present
             </p>
             <p
               class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+              Kathleen Edwards, M.P.S.E. and I founded Hear Kitty Studios to combine our talents and offer anyone interested in producing television, radio or podcast content the highest quality sound possible. We are passionate about post-production sound, crafting custom soundscapes to make every project we work on sound its best.
             </p>
           </div>
         </div>
@@ -186,22 +188,44 @@ exports[`matches snapshot 1`] = `
             <h6
               class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
             >
-              education0
+              Springboard
             </h6>
             <p
               class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
             >
-              curriculum0
+              Full Stack Programming
             </p>
             <p
               class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
             >
-              Date 2020 - Date 2021
+              October 2020 - January 2022
             </p>
             <p
               class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+              The dream job that I'm working towards would merge my sound experience with my love for code.
+            </p>
+          </div>
+          <div>
+            <h6
+              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+            >
+              Kalamazoo College
+            </h6>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              Bachelor of Arts
+            </p>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              September 1987 - June 1991
+            </p>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              Graduated with Honors in Theatre Arts & Communication with a concentration with Computer Science
             </p>
           </div>
         </div>
@@ -212,24 +236,6 @@ exports[`matches snapshot 1`] = `
         <hr
           class="MuiDivider-root"
         />
-      </div>
-      <div
-        class="makeStyles-category-9"
-      >
-        <h4
-          class="MuiTypography-root MuiTypography-h4"
-        >
-          Certifications
-        </h4>
-        <div
-          class="makeStyles-categoryBody-10"
-        >
-          <p
-            class="MuiTypography-root MuiTypography-body1"
-          >
-            certification0, certification1
-          </p>
-        </div>
       </div>
     </div>
   </div>

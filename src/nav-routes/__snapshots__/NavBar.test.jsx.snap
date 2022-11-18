@@ -11,7 +11,7 @@ exports[`matches snapshot 1`] = `
       <h6
         class="MuiTypography-root makeStyles-title-5 MuiTypography-h6"
       >
-        John Doe
+        KingTorCodes
       </h6>
       <div
         class="makeStyles-navButtons-6"
@@ -54,7 +54,7 @@ exports[`matches snapshot 1`] = `
         <a
           aria-disabled="false"
           class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-colorInherit MuiTypography-colorPrimary"
-          href="https://github.com/"
+          href="https://github.com/kingtor69"
           role="button"
           tabindex="0"
           target="_blank"
@@ -71,7 +71,7 @@ exports[`matches snapshot 1`] = `
         <a
           aria-disabled="false"
           class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-colorInherit MuiTypography-colorPrimary"
-          href="https://www.linkedin.com//"
+          href="https://www.linkedin.com/in/kingtor"
           role="button"
           tabindex="0"
           target="_blank"

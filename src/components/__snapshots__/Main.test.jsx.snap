@@ -12,15 +12,15 @@ exports[`matches snapshot 1`] = `
         class="makeStyles-profilePicture-15"
       >
         <img
-          alt="profile image"
-          src="genericUser.svg"
+          alt="Tor in front of Carnegie Hall"
+          src="https://raw.githubusercontent.com/kingtor69/create-my-portfolio-site/main/src/assets/TorHeadshotWithCello400x400.jpeg"
           width="300px"
         />
       </div>
       <h1
         class="MuiTypography-root MuiTypography-h2 MuiTypography-colorTextPrimary MuiTypography-gutterBottom MuiTypography-alignLeft"
       >
-        Hi, I'm John, a Software Developer from California
+        My name is Tor Kingdon and I tell stories with code.
       </h1>
     </div>
   </div>
@@ -30,7 +30,7 @@ exports[`matches snapshot 1`] = `
     <h6
       class="MuiTypography-root makeStyles-mainBlurb-16 MuiTypography-subtitle1 MuiTypography-colorTextSecondary MuiTypography-gutterBottom MuiTypography-alignCenter"
     >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+      I've been working in the entertainment business since I was a kid (specifically sound for TV & film) and have decided to use my computer skills to write code instead of making funny noises.
     </h6>
     <hr
       class="MuiDivider-root"
@@ -59,8 +59,8 @@ exports[`matches snapshot 1`] = `
         >
           <div
             class="MuiCardMedia-root makeStyles-cardMedia-13"
-            style="background-image: url(https://github.githubassets.com/images/modules/site/home/repo-browser.png);"
-            title="project0 thumbnail"
+            style="background-image: url(https://raw.githubusercontent.com/kingtor69/create-my-portfolio-site/main/src/assets/SaddleTimeScreenshot.png);"
+            title="Saddle-Time screenshot"
           />
           <div
             class="MuiCardContent-root makeStyles-cardContent-14"
@@ -68,12 +68,12 @@ exports[`matches snapshot 1`] = `
             <h2
               class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
             >
-              project0
+              Saddle-Time
             </h2>
             <p
               class="MuiTypography-root MuiTypography-body2"
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+              Bicycle-friendly bicycle directions. It was programmed with Python, HTML, CSS, and JavaScript. I also used the frameworks/libraries Flask, WTForms, Jinja2, Bootstrap, jQuery and plugins from Mapbox & Select2. It uses APIs from Mapbox, Mapquest, and Open Weather Service.
             </p>
           </div>
           <div
@@ -87,7 +87,21 @@ exports[`matches snapshot 1`] = `
               <span
                 class="MuiButton-label"
               >
-                Go
+                Github
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-textSizeSmall MuiButton-sizeSmall"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Site
               </span>
               <span
                 class="MuiTouchRipple-root"
@@ -104,8 +118,8 @@ exports[`matches snapshot 1`] = `
         >
           <div
             class="MuiCardMedia-root makeStyles-cardMedia-13"
-            style="background-image: url(https://github.githubassets.com/images/modules/site/home/repo-browser.png);"
-            title="project1 thumbnail"
+            style="background-image: url(https://raw.githubusercontent.com/kingtor69/create-my-portfolio-site/main/src/assets/TorBoggle.png);"
+            title="Tor Boggle screenshot"
           />
           <div
             class="MuiCardContent-root makeStyles-cardContent-14"
@@ -113,12 +127,12 @@ exports[`matches snapshot 1`] = `
             <h2
               class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
             >
-              project1
+              Tor Boggle
             </h2>
             <p
               class="MuiTypography-root MuiTypography-body2"
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+              My down-n-dirty take on the classic dice/word game using Python/Flask.
             </p>
           </div>
           <div
@@ -132,7 +146,21 @@ exports[`matches snapshot 1`] = `
               <span
                 class="MuiButton-label"
               >
-                Go
+                Github
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-textSizeSmall MuiButton-sizeSmall"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Site
               </span>
               <span
                 class="MuiTouchRipple-root"
@@ -149,8 +177,8 @@ exports[`matches snapshot 1`] = `
         >
           <div
             class="MuiCardMedia-root makeStyles-cardMedia-13"
-            style="background-image: url(https://github.githubassets.com/images/modules/site/home/repo-browser.png);"
-            title="project2 thumbnail"
+            style="background-image: url(https://raw.githubusercontent.com/kingtor69/create-my-portfolio-site/main/src/assets/themilongaprojectScreenShot.png);"
+            title="The Milonga Project screenshot"
           />
           <div
             class="MuiCardContent-root makeStyles-cardContent-14"
@@ -158,12 +186,12 @@ exports[`matches snapshot 1`] = `
             <h2
               class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
             >
-              project2
+              The Milonga Project
             </h2>
             <p
               class="MuiTypography-root MuiTypography-body2"
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+              I produced an “illustrated audio play” with my partner and a wrtier/director we’ve worked with before, and I made our website. The backend is still in development using Node JS and the Strapi library.
             </p>
           </div>
           <div
@@ -177,7 +205,21 @@ exports[`matches snapshot 1`] = `
               <span
                 class="MuiButton-label"
               >
-                Go
+                Github
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-textSizeSmall MuiButton-sizeSmall"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Site
               </span>
               <span
                 class="MuiTouchRipple-root"

@@ -28,7 +28,7 @@
         "greeting": "My name is Tor Kingdon and I tell stories with code.",
         "blurb":"I've been working in the entertainment business since I was a kid (specifically sound for TV & film) and have decided to use my computer skills to write code instead of making funny noises.",
         "profileImage": { 
-            "url":"https://github.com/kingtor69/create-my-portfolio-site/blob/main/assets/TorHeadshotWithCello400x400.jpeg?raw=true",
+            "url":"https://raw.githubusercontent.com/kingtor69/create-my-portfolio-site/main/src/assets/TorHeadshotWithCello400x400.jpeg",
             "altText":"Tor in front of Carnegie Hall"
         },
         "image": {
@@ -45,7 +45,7 @@
                 "githubUrl":"https://github.com/kingtor69/saddle-time",
                 "projectUrl":"https://saddle-time.herokuapp.com/",
                 "image": {
-                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/main/assets/SaddleTimeScreenshot.png?raw=true",
+                    "url": "https://raw.githubusercontent.com/kingtor69/create-my-portfolio-site/main/src/assets/SaddleTimeScreenshot.png",
                     "altText": "Saddle-Time screenshot"
                 }
             },
@@ -55,7 +55,7 @@
                 "githubUrl":"https://github.com/kingtor69/flask-boggle",
                 "projectUrl":"http://tor-boggle.herokuapp.com/",
                 "image": {
-                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/main/assets/TorBoggle.png?raw=true",
+                    "url": "https://raw.githubusercontent.com/kingtor69/create-my-portfolio-site/main/src/assets/TorBoggle.png",
                     "altText": "Tor Boggle screenshot"
                 }
             },
@@ -65,7 +65,7 @@
                 "githubUrl":"https://github.com/kingtor69/themilongaproject.com",
                 "projectUrl":"https://themilongaproject.com/",
                 "image": {
-                    "url": "https://github.com/kingtor69/create-my-portfolio-site/blob/main/assets/themilongaprojectScreenShot.png",
+                    "url": "https://raw.githubusercontent.com/kingtor69/create-my-portfolio-site/main/src/assets/themilongaprojectScreenShot.png",
                     "altText": "The Milonga Project screenshot"
                 }
             }
@@ -137,7 +137,7 @@
     "other":{
         "images":[
             {"image":{
-                "url":"https://github.com/kingtor69/create-my-portfolio-site/blob/main/assets/soundAndCodeDesk.jpg?raw=true",
+                "url":"https://raw.githubusercontent.com/kingtor69/create-my-portfolio-site/main/src/assets/soundAndCodeDesk.jpg",
                 "altText":"sound guy who codes",
                 "description":"My desk with Pro Tools, VS Code, Terminal window, web browser, and sound design tools."
                 }

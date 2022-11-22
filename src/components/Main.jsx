@@ -81,6 +81,9 @@ const Main = () => {
 					gutterBottom
 				>
 					{main.blurb}
+					{<br />}
+					{<br />}
+					{main.conclusion}
 				</Typography>
 
 				<Divider />

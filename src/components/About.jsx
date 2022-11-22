@@ -90,6 +90,7 @@ const About = () => {
 										{skill.type}
 									</Typography>
 									<Typography>{skill.items.join(', ')}</Typography>
+									<br />
 								</div>
 							))}
 						</div>

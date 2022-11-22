@@ -22,18 +22,21 @@ const NavBar = () => {
 	const { navigation: { menu, name } } = useContext(MyInfoContext);
 	const classes = useStyles();
 	return (
-		<AppBar position='static'>
-			<Toolbar>
-				<Typography variant='h6' className={classes.title}>
-					{name}
-				</Typography>
-				<div className={classes.navButtons}>
-					{menu.map((e, i) => {
-						return <MyNavButton key={i} to={e.url} text={e.text} target={e.target} />;
-					})}
-				</div>
-			</Toolbar>
-		</AppBar>
+		<>
+			<AppBar position='fixed'>
+				<Toolbar>
+					<Typography variant='h6' className={classes.title}>
+						{name}
+					</Typography>
+					<div className={classes.navButtons}>
+						{menu.map((e, i) => {
+							return <MyNavButton key={i} to={e.url} text={e.text} target={e.target} />;
+						})}
+					</div>
+				</Toolbar>
+			</AppBar>
+			<br />
+		</>
 	);
 };
 export default NavBar;

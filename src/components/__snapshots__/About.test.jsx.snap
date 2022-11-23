@@ -71,6 +71,7 @@ exports[`matches snapshot 1`] = `
             >
               JavaScript, HTML, CSS, Python, SQL
             </p>
+            <br />
           </div>
           <div
             class="1"
@@ -85,6 +86,7 @@ exports[`matches snapshot 1`] = `
             >
               React, Express, Flask, Bootstrap, WTForms, Jinja2, jQuery
             </p>
+            <br />
           </div>
           <div
             class="2"
@@ -97,8 +99,9 @@ exports[`matches snapshot 1`] = `
             <p
               class="MuiTypography-root MuiTypography-body1"
             >
-              hockey center, black diamond skier, cyclist (roadie), pretty good bridge partner
+              hockey center and ref, black diamond skier, cyclist (roadie), passable bridge partner
             </p>
+            <br />
           </div>
         </div>
       </div>

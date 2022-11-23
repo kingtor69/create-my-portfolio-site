@@ -30,7 +30,10 @@ exports[`matches snapshot 1`] = `
     <h6
       class="MuiTypography-root makeStyles-mainBlurb-16 MuiTypography-subtitle1 MuiTypography-colorTextSecondary MuiTypography-gutterBottom MuiTypography-alignCenter"
     >
-      I've been working in the entertainment business since I was a kid (specifically sound for TV & film) and have decided to use my computer skills to write code instead of making funny noises.
+      I have been working with entertainment and computers since I was a kid, working professionally in post audio for TV & film and recording dialog for radio, voice-over, and video games.
+      <br />
+      <br />
+      Recently, I have been using my computer skills to write code instead of making funny noises.
     </h6>
     <hr
       class="MuiDivider-root"
@@ -73,7 +76,7 @@ exports[`matches snapshot 1`] = `
             <p
               class="MuiTypography-root MuiTypography-body2"
             >
-              Bicycle-friendly bicycle directions. It was programmed with Python, HTML, CSS, and JavaScript. I also used the frameworks/libraries Flask, WTForms, Jinja2, Bootstrap, jQuery and plugins from Mapbox & Select2. It uses APIs from Mapbox, Mapquest, and Open Weather Service.
+              Bicycle-friendly bicycle directions. It was programmed with Python, HTML, CSS, and JavaScript, with the frameworks/libraries Flask, WTForms, Jinja2, Bootstrap, jQuery, and plugins from Mapbox & Select2. It uses APIs from Mapbox, Mapquest, and Open Weather Service.
             </p>
           </div>
           <div

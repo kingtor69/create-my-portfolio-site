@@ -142,6 +142,14 @@ const Main = () => {
 				</Grid>
 			</Container>
 			{/** End Cards unit */}
+
+			{/* disclaimer re heroku issue */}
+			<Container maxWidth='md'>
+				<Typography variant="h3">
+					Note: due to changes on heroku, the first two demo projects’ “SITE” buttons will not load the site. The code <b>is</b> still visible and clone-able via the “GITHUB” buttons.<br />
+					This will be repaired soon.
+				</Typography>
+			</Container>
 		</React.Fragment>
 	);
 };

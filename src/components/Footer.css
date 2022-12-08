@@ -1,0 +1,13 @@
+
+hr {
+    width: 30%;
+}
+
+a {
+    color: #99f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #55f;
+}

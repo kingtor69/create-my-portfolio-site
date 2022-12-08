@@ -2,6 +2,7 @@ import React, { useContext } from 'react';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
 import MyInfoContext from '../context/MyInfoContext';
+import './Footer.css'
 
 const useStyles = makeStyles((theme) => ({
 	footer : {
@@ -14,8 +15,9 @@ const Footer = () => {
 	return (
 		<footer className={classes.footer}>
 			<Typography variant='subtitle1' align='center' color='textSecondary' component='p'>
+				<hr />
 				template forked from <a href="https://github.com/brian-trann/create-my-portfolio-site">Brian Trann&rsquo;s create-my-portfolio-site</a><br />
-				&copy; {name} 2021-{new Date().getFullYear()}
+				<a href="https://github.com/kingtor69/create-my-portfolio-site">modifications and content</a> &copy; {name} 2021-{new Date().getFullYear()}
 			</Typography>
 		</footer>
 	);

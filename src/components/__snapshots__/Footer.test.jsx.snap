@@ -8,6 +8,13 @@ exports[`matches snapshot 1`] = `
     <p
       class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary MuiTypography-alignCenter"
     >
+      template forked from 
+      <a
+        href="https://github.com/brian-trann/create-my-portfolio-site"
+      >
+        Brian Trann’s create-my-portfolio-site
+      </a>
+      <br />
       © KingTorCodes 2021-2022
     </p>
   </footer>

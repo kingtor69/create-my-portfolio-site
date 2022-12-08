@@ -233,5 +233,23 @@ exports[`matches snapshot 1`] = `
       </div>
     </div>
   </div>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthMd"
+  >
+    <p
+      class="MuiTypography-root MuiTypography-body2"
+    >
+      <i>
+        <b>
+          Note:
+        </b>
+         due to changes on heroku, the “Saddle-Time” and “Tor Boggle” SITE buttons will load an error message instead of the site. The code 
+        <b>
+          is
+        </b>
+         still visible and clone-able via the “GITHUB” buttons. This will be repaired soon.
+      </i>
+    </p>
+  </div>
 </DocumentFragment>
 `;

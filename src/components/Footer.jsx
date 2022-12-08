@@ -14,6 +14,7 @@ const Footer = () => {
 	return (
 		<footer className={classes.footer}>
 			<Typography variant='subtitle1' align='center' color='textSecondary' component='p'>
+				template forked from <a href="https://github.com/brian-trann/create-my-portfolio-site">Brian Trann&rsquo;s create-my-portfolio-site</a><br />
 				&copy; {name} 2021-{new Date().getFullYear()}
 			</Typography>
 		</footer>

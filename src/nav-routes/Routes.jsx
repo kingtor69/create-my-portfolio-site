@@ -13,6 +13,9 @@ const Routes = () => {
 			<Route exact path='/about'>
 				<About />
 			</Route>
+			<Route exact path='/resume'>
+				<Resume />
+			</Route>
 			<Redirect to='/' />
 		</Switch>
 	);

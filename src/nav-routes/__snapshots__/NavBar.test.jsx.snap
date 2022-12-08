@@ -53,6 +53,23 @@ exports[`matches snapshot 1`] = `
         </a>
         <a
           aria-disabled="false"
+          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-colorInherit"
+          href="/resume"
+          role="button"
+          tabindex="0"
+          target=""
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Resumé
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </a>
+        <a
+          aria-disabled="false"
           class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-colorInherit MuiTypography-colorPrimary"
           href="https://github.com/kingtor69"
           role="button"

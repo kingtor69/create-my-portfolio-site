@@ -13,6 +13,11 @@
                 "target":""
             },
             {
+                "text": "Resumé",
+                "url": "/resume",
+                "target":""
+            },
+            {
                 "text": "Github",
                 "url": "https://github.com/kingtor69",
                 "target":"_blank"

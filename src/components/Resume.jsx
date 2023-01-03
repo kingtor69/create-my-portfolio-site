@@ -1,6 +1,5 @@
 import React from 'react';
 import Iframe from 'react-iframe';
-import Typography from '@material-ui/core/Typography';
 
 const Resume = () => {
     return (

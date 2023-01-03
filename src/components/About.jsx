@@ -38,7 +38,8 @@ const useStyles = makeStyles((theme) => ({
 const About = () => {
 	const { about, other: { images } } = useContext(MyInfoContext);
 
-	const { statement, skills, workExperience, education, certifications } = about;
+	// const { statement, skills, workExperience, education, certifications } = about;
+	const { statement, skills, workExperience, education } = about;
 	const classes = useStyles();
 	return (
 		<React.Fragment>

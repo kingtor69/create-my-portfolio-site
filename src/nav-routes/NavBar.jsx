@@ -5,6 +5,8 @@ import Typography from '@material-ui/core/Typography';
 import MyInfoContext from '../context/MyInfoContext';
 import { makeStyles } from '@material-ui/core/styles';
 import MyNavButton from './MyNavButton';
+import './NavBar.css';
+
 const useStyles = makeStyles(() => ({
 	root       : {
 		flexGrow : 1
@@ -25,8 +27,8 @@ const NavBar = () => {
 		<>
 			<AppBar position='fixed'>
 				<Toolbar>
-					<Typography variant='h6' className={classes.title}>
-						{name}
+					<Typography variant='h5' className={classes.title}>
+						<a href='/' className='NavBar-name'>{name}</a>
 					</Typography>
 					<div className={classes.navButtons}>
 						{menu.map((e, i) => {
